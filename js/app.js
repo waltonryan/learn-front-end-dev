@@ -3,7 +3,7 @@ $( document ).ready(function() {
     console.log( "ready!" );
 
     // short animation to show JQuery in action
-    $( ".fa-user" ).animate({
+    $( ".fade-out" ).animate({
         opacity: 0.25
       }, 2000, function() {
         // Animation complete
