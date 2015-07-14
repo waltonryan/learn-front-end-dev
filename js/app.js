@@ -7,6 +7,7 @@ $( document ).ready(function() {
         opacity: 0.25
       }, 2000, function() {
         // Animation complete
+        console.log( "animation complete!" );
     });
 
 });
