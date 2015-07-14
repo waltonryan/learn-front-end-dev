@@ -3,6 +3,6 @@
 Use this to add information about the project.
 
 ## Dependencies
--JQuery
--Bootstrap 3
--Font Awesome
+- JQuery
+- Bootstrap 3
+- Font Awesome
